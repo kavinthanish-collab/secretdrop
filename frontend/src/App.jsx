@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://secretdrop-je5p.onrender.com";
 
 // DANCING CHARACTER GAME
 function DancingChallenge() {
